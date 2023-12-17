@@ -1,0 +1,28 @@
+table {
+    border-collapse: collapse;
+    width:30%
+}
+
+th, td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid black
+}
+
+tr:nth-child(even) {
+    background-color: rgb(223, 46, 105)
+}
+
+tr:hover {
+    background-color: pink
+}
+img {
+    border-style: solid;
+    padding: 5px;
+    border-radius: 4px;
+    margin: 10px
+}
+th {
+    font-size: 20px;
+  
+}
